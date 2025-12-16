@@ -66,8 +66,7 @@ python english_exam_generator.py
 ```
 
 ### 3. 生成试卷
-![图形界面演示](https://pic1.imgdb.cn/item/6940ce9a4a4e4213d00c0fd1.png)
-
+![图形界面演示.png](https://pic1.imgdb.cn/item/6940ce9a4a4e4213d00c0fd1.png)
 1. **输入试卷内容**（可选）：
    - 在左侧的文本框中输入作文题材、完形填空原文、阅读A/B/C原文
    - 或者点击"导入文件"按钮从现有文件导入内容
@@ -81,6 +80,7 @@ python english_exam_generator.py
    - 生成过程中可以在右侧查看实时日志
 
 3. **查看结果**：
+   ![生成试卷示例](https://pic1.imgdb.cn/item/6940d0494a4e4213d00c2373.png)
    - 生成完成后，可以点击"一键打开Word文档"查看生成的试卷
    - 生成的试卷将保存为以下文件：
      - `english_comprehensive_exam.html`（HTML格式）
@@ -88,6 +88,7 @@ python english_exam_generator.py
      - `english_comprehensive_exam.md`（Markdown格式）
 
 ### 4. 查看历史试卷
+![历史试卷界面讲解](https://pic1.imgdb.cn/item/6940cfc84a4e4213d00c1efd.png)
 - 点击"查看历史试卷"按钮打开历史记录窗口
 - 在左侧列表中选择试卷
 - 在右侧查看题目和答案详情
