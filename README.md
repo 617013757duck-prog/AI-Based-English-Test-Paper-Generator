@@ -66,6 +66,8 @@ python english_exam_generator.py
 ```
 
 ### 3. 生成试卷
+![图形界面演示](https://pic1.imgdb.cn/item/6940ce9a4a4e4213d00c0fd1.png)
+
 1. **输入试卷内容**（可选）：
    - 在左侧的文本框中输入作文题材、完形填空原文、阅读A/B/C原文
    - 或者点击"导入文件"按钮从现有文件导入内容
